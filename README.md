@@ -74,7 +74,7 @@ EavTask task = EavTask.createPing();
 ByteBuffer buffer = task.getRequestData();
 System.out.println("Packet size: " + buffer.capacity());
 📜 Лицензия
-MIT / Apache 2.0 (на ваш выбор). См. файл LICENSE.
+MIT (См. файл LICENSE)
 
 🍊 Автор
 Александр Камышев (@kamaleksandr)
